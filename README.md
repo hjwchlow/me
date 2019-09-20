@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hongjinwu/me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm a master student at School of Mathematical Sciences in Tongji University, Shanghai, China. My master thesis focuses on theoretical analysis of Partial Differential Equation. After finishing my postgraduate study, I am on my way to completing my master’s degree at the School ofMathematical Sciences at Tongji University. I have completed my master’s thesisahead of timeduring the Post-graduate stage, so I joined Big Data Lab for enhancing my ability to solve problems with mathematical modeling, optimization, machine learning, and programming skills. My enthusiasm for applicationsof math especially social science has been the main driving force that supports me during this journey. I am acritical-minded adventurer who is always willing to accept challenges and pursue innovation. My collaborationwith some amazing professionals in Mathematics and Computer Science has helped me to develop a systematicscientific way of thinking and the ability to propose and solve problems.
 
 ### Markdown
 
