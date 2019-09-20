@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome
 Hi! I'm a master student at School of Mathematical Sciences in Tongji University, Shanghai, China. My master thesis focuses on theoretical analysis of Partial Differential Equation. After completing my master’s thesisahead of timeduring the Post-graduate stage, so I joined Big Data Lab for enhancing my ability to solve problems with mathematical modeling, optimization, machine learning, and programming skills. My collaboration with some amazing professionals in Mathematics and Computer Science has helped me to develop a systematic scientific way of thinking and the ability to propose and solve problems.
 
 Please feel free to look around and contact me if you have any comments!
